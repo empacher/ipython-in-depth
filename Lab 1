@@ -1,0 +1,7 @@
+import random as rn
+import time as tm
+
+print("what is your question?")
+tm.sleep(0.5)
+print("thinking")
+print("your questions was __")
